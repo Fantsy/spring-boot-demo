@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rabbitmq/rabbit-demo.iml" filepath="$PROJECT_DIR$/spring-boot-rabbitmq/rabbit-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-activemq/spring-boot-activemq.iml" filepath="$PROJECT_DIR$/spring-boot-activemq/spring-boot-activemq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo.iml" filepath="$PROJECT_DIR$/spring-boot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-elasticjob/spring-boot-elasticjob.iml" filepath="$PROJECT_DIR$/spring-boot-elasticjob/spring-boot-elasticjob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-elasticsearch/spring-boot-elasticsearch.iml" filepath="$PROJECT_DIR$/spring-boot-elasticsearch/spring-boot-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka.iml" filepath="$PROJECT_DIR$/spring-boot-kafka/spring-boot-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-netty-websocket/spring-boot-netty-websocket.iml" filepath="$PROJECT_DIR$/spring-boot-netty-websocket/spring-boot-netty-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-rabbitmq/spring-boot-rabbitmq.iml" filepath="$PROJECT_DIR$/spring-boot-rabbitmq/spring-boot-rabbitmq.iml" />
+    </modules>
+  </component>
+</project>

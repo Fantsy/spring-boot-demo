@@ -1,0 +1,21 @@
+spring:
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        #healthCheckPath: ${management.contextPath}/health
+        healthCheckPath: /health
+        healthCheckInterval: 15s
+        instance-id: consul1
+        enabled: true
+      enabled: true
+  application:
+    name: spring-cloud-rabbitmq-example
+server:
+  port: 11457
+rabbitmq:
+  host: 127.0.0.1
+  port: 5672
+  username: guest
+  password: guest
